@@ -1,1 +1,24 @@
+# Site settings
+title: "Sarbojeet Bhowmick"
+description: "DevOps Engineer | Portfolio & Resume"
+url: "https://iamsjeet.github.io" # Change to your GitHub Pages URL
+baseurl: "" # Leave empty unless your site is in a subfolder
 
+# Build settings
+theme: minima # You can change to another Jekyll theme if desired
+markdown: kramdown
+
+# Exclude files from site build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
+# Social links (optional)
+github_username: iamsjeet
+linkedin_username: sarbojeet-bhowmick
+email: sarbojeet001@gmail.com
+
+# Optional settings
+show_downloads: false
